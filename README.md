@@ -1,4 +1,5 @@
 # Ride-Booking-Data-Analysis
+
 Proyek ini bertujuan untuk melakukan analisis data pemesanan perjalanan (ride booking) menggunakan pendekatan Exploratory Data Analysis (EDA).
 Analisis dilakukan untuk memahami pola penggunaan layanan transportasi online, seperti metode pembayaran, jarak perjalanan, nilai booking, dan kepuasan pelanggan.
 
