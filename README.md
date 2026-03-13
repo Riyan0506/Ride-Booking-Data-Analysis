@@ -183,8 +183,7 @@ Upi.ipynb
 
 Notebook dapat dijalankan menggunakan:
 
-* **Jupyter Notebook**
-* **Google Colab**
+* **Google Colab** [Klik di sini](https://colab.research.google.com/drive/1HbWly8QzZlqRJwgTkgFeZ-RUmMKIp8-2?usp=sharing)   
 
 ---
 
