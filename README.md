@@ -155,7 +155,7 @@ Hasil analisis ini dapat membantu perusahaan untuk:
 ride-booking-data-analysis
 │
 ├── ncr_ride_bookings.csv
-├── Upi.ipynb
+├── Ride Booking Data Analysis.ipynb
 └── README.md
 ```
 
